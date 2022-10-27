@@ -12,7 +12,7 @@ public class LocationStats {
 
     public void setDiffFromPrevDay(int diffFromPrevDay) {
         this.diffFromPrevDay = diffFromPrevDay;
-    }
+    } 
     public String getState() {
         return state;
     }
